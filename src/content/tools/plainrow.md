@@ -1,8 +1,8 @@
 ---
-title: "Plainrow"
+title: "Plainrow: match two CSV files by SKU"
 link: "https://fromtill.com/plainrow/"
 thumbnail: "https://fromtill.com/plainrow/logo.png"
-snippet: "Offline CSV tools in the browser. Stack and dedupe two files with free Lite — files never leave your machine, no upload, no account."
+snippet: "Match two CSV files by SKU, like warehouse stock onto a product catalog. For VAs and bookkeepers who can't upload client files. Lite free (stack/dedupe). Kitchen $19 does the match."
 tags: ["productivity","data"]
 createdAt: 2026-09-16T13:35:56.000Z
 ---
